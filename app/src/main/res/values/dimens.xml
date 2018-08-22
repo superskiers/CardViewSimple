@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="seize_dp">16dp</dimen>
+    <dimen name="twenty4_sp">24sp</dimen>
+    <dimen name="seize_sp">16sp</dimen>
+</resources>

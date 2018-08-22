@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CardViewSimple</string>
+    <string name="front_left_view">Front left view</string>
+    <string name="descript_front_left">This is from the front left view. It shows that the Cross Polo shines under the sun.</string>
+    <string name="front_right_view">Front right view</string>
+    <string name="descript_front_right">This is from the Front right view. Nothing can cast a shadow on this car as it is just too fast.</string>
+    <string name="left_view">Left view</string>
+    <string name="descript_front_left2">This is from the Left view. In case you didn\'t notice before, this is a silver car.</string>
+    <string name="right_view">Right view</string>
+    <string name="descript_front_right2">This is from the Right view. Included as standard with this Cross Polo are four tires.</string>
+    <string name="profile_activity_text_view_angle">Image angle</string>
+    <string name="profile_activity_text_view_description">Car description</string>
+</resources>
